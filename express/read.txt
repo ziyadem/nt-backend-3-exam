@@ -1,0 +1,24 @@
+
+--api
+1.register                       --tugadii
+2.login                          --tugadii
+3.all company       TU           --tugadii
+4.one company       TU
+5.company delete    TA
+6.company update    TA          
+7.company create    TA          --tugadi
+8.complex all       TU
+9.one complex       TU
+10.complex create   TA
+11.complex update   TA
+12.complex delete   TA
+13.all room         TU
+14.one room         TU
+15.room create      TA     
+16.room delete      TA
+17.room update      TA
+18.all bank         TU
+19.one bank         TU
+20.all customer     TU
+22.all user         TA
+23.one user         

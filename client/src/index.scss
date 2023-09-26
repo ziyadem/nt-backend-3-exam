@@ -1,0 +1,74 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+:root{
+    --glavnyColor:#0d6efd;
+}
+.header{
+    background-color:black;
+    img{
+        width: 80px;
+        height: 80px;
+        border-radius: 50%;
+    }  
+}
+.hero-home{
+  background-color: #898585c3;
+  h1{
+    color: var(--glavnyColor);
+  }
+  .homeForm{
+    span{
+        width: 23%;
+    }
+    h5{
+        color: var(--glavnyColor);
+    }
+    .item{
+        width: 33%;
+    }
+  }
+}
+.sd-left{
+    width: 18% !important;
+    height: 100%;
+}
+.sd-right{
+    width: 82%;
+    background-color: #898585c3
+}
+.company{
+    height: 100vh;
+    form{
+        label{
+            color: #0d6efd;
+        }
+        .cmp{
+            width: 35%;
+        }
+        .cmp1{
+            width: 20%;
+        }
+    }
+    .company-logo{
+        width: 50px !important;
+    }
+}
+//login
+.login{
+    height: 100vh;
+}
+//complex
+.complex{
+    .cmp{
+        width: 24%;
+    }
+}
+.room{
+    .cmp{
+        width: 19%;
+        color: #0d6efd;
+    }
+}
